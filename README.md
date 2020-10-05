@@ -1,1 +1,3 @@
 # emconforte.tourdifferent.landingpage.io
+
+A start up idea with a landing page for anyone interested in getting involved or becoming a stakeholder. The idea is to create an application for locals to communicate with tourists while they are on vacation. There are a lot of instances where touring companies are over-booked and plans have to change or cancelled. This offers local people to provide vehicles or extracurricular activites like boating. They are able to bargain. Locals will be pre-screened before creating an account. It also allows tourists to immerse themselves into the culture on a much deeper level than what they get on the resort or hotel.  
